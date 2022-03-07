@@ -1,0 +1,26 @@
+[
+    {
+        "race_id": "9",
+        "race_dsc": "A identificar"
+    },
+    {
+        "race_id": "4",
+        "race_dsc": "Amarela"
+    },
+    {
+        "race_id": "1",
+        "race_dsc": "Branca"
+    },
+    {
+        "race_id": "5",
+        "race_dsc": "Indígena"
+    },
+    {
+        "race_id": "3",
+        "race_dsc": "Parda"
+    },
+    {
+        "race_id": "2",
+        "race_dsc": "Preta"
+    }
+]

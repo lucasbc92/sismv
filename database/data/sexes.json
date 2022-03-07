@@ -1,0 +1,14 @@
+[
+    {
+        "sex_id": "1",
+        "sex_dsc": "Masculino"
+    },
+    {
+        "sex_id": "2",
+        "sex_dsc": "Feminino"
+    },
+    {
+        "sex_id": "32767",
+        "sex_dsc": "A identificar"
+    }
+]

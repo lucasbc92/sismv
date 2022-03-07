@@ -1,0 +1,22 @@
+[
+    {
+        "sexual_orientation_id": "1",
+        "sexual_orientation_dsc": "Heterossexual"
+    },
+    {
+        "sexual_orientation_id": "2",
+        "sexual_orientation_dsc": "Homossexual"
+    },
+    {
+        "sexual_orientation_id": "3",
+        "sexual_orientation_dsc": "Bissexual"
+    },
+    {
+        "sexual_orientation_id": "4",
+        "sexual_orientation_dsc": "Assexual"
+    },
+    {
+        "sexual_orientation_id": "5",
+        "sexual_orientation_dsc": "Pansexual"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "mean_id": "1",
+        "mean_dsc": "Afogamento"
+    },
+    {
+        "mean_id": "2",
+        "mean_dsc": "Agressão física"
+    },
+    {
+        "mean_id": "3",
+        "mean_dsc": "Arma branca"
+    },
+    {
+        "mean_id": "5",
+        "mean_dsc": "Arma de fogo"
+    },
+    {
+        "mean_id": "17",
+        "mean_dsc": "Arrombamento"
+    },
+    {
+        "mean_id": "18",
+        "mean_dsc": "Escalada"
+    },
+    {
+        "mean_id": "7",
+        "mean_dsc": "Explosivo"
+    },
+    {
+        "mean_id": "9",
+        "mean_dsc": "Grave ameaça"
+    },
+    {
+        "mean_id": "10",
+        "mean_dsc": "Instrumento contundente"
+    },
+    {
+        "mean_id": "16",
+        "mean_dsc": "Não informado"
+    },
+    {
+        "mean_id": "15",
+        "mean_dsc": "Outro meio"
+    },
+    {
+        "mean_id": "14",
+        "mean_dsc": "Veículo automotor"
+    },
+    {
+        "mean_id": "4",
+        "mean_dsc": "Outro meio"
+    },
+    {
+        "mean_id": "6",
+        "mean_dsc": "Outro meio"
+    },
+    {
+        "mean_id": "8",
+        "mean_dsc": "Outro meio"
+    },
+    {
+        "mean_id": "11",
+        "mean_dsc": "Outro meio"
+    },
+    {
+        "mean_id": "12",
+        "mean_dsc": "Outro meio"
+    },
+    {
+        "mean_id": "13",
+        "mean_dsc": "Outro meio"
+    }
+]

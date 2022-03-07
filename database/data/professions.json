@@ -1,0 +1,1314 @@
+[
+    {
+        "profession_id": "1",
+        "profession_dsc": "Administrador"
+    },
+    {
+        "profession_id": "2",
+        "profession_dsc": "Advogado"
+    },
+    {
+        "profession_id": "3",
+        "profession_dsc": "Agenciador de propaganda"
+    },
+    {
+        "profession_id": "4",
+        "profession_dsc": "Agente administrativo"
+    },
+    {
+        "profession_id": "5",
+        "profession_dsc": "Agente de viagem"
+    },
+    {
+        "profession_id": "6",
+        "profession_dsc": "Agente serviços funerários"
+    },
+    {
+        "profession_id": "7",
+        "profession_dsc": "Agricultor"
+    },
+    {
+        "profession_id": "8",
+        "profession_dsc": "Agrônomo"
+    },
+    {
+        "profession_id": "9",
+        "profession_dsc": "Alfaiate"
+    },
+    {
+        "profession_id": "10",
+        "profession_dsc": "Analista de sistemas"
+    },
+    {
+        "profession_id": "11",
+        "profession_dsc": "Aposentado"
+    },
+    {
+        "profession_id": "12",
+        "profession_dsc": "Arqueólogo"
+    },
+    {
+        "profession_id": "13",
+        "profession_dsc": "Arquiteto"
+    },
+    {
+        "profession_id": "14",
+        "profession_dsc": "Arquivista"
+    },
+    {
+        "profession_id": "15",
+        "profession_dsc": "Ascensorista"
+    },
+    {
+        "profession_id": "16",
+        "profession_dsc": "Assistente social"
+    },
+    {
+        "profession_id": "17",
+        "profession_dsc": "Astrônomo, meteorologista"
+    },
+    {
+        "profession_id": "18",
+        "profession_dsc": "Atleta profissional"
+    },
+    {
+        "profession_id": "19",
+        "profession_dsc": "Ator"
+    },
+    {
+        "profession_id": "20",
+        "profession_dsc": "Auxiliar de escritório"
+    },
+    {
+        "profession_id": "21",
+        "profession_dsc": "Auxiliar de laboratório"
+    },
+    {
+        "profession_id": "22",
+        "profession_dsc": "Avaliador"
+    },
+    {
+        "profession_id": "23",
+        "profession_dsc": "Bailarino"
+    },
+    {
+        "profession_id": "24",
+        "profession_dsc": "Bancário"
+    },
+    {
+        "profession_id": "25",
+        "profession_dsc": "Barbeiro"
+    },
+    {
+        "profession_id": "26",
+        "profession_dsc": "Bibliotecário"
+    },
+    {
+        "profession_id": "27",
+        "profession_dsc": "Biólogo"
+    },
+    {
+        "profession_id": "28",
+        "profession_dsc": "Biomédico"
+    },
+    {
+        "profession_id": "29",
+        "profession_dsc": "Bombeiro Militar - Praça"
+    },
+    {
+        "profession_id": "30",
+        "profession_dsc": "Cabeleireiro"
+    },
+    {
+        "profession_id": "31",
+        "profession_dsc": "Caixeiro viajante"
+    },
+    {
+        "profession_id": "32",
+        "profession_dsc": "Camareiro"
+    },
+    {
+        "profession_id": "33",
+        "profession_dsc": "Cantor"
+    },
+    {
+        "profession_id": "34",
+        "profession_dsc": "Carregador"
+    },
+    {
+        "profession_id": "35",
+        "profession_dsc": "Comandante de embarcacões"
+    },
+    {
+        "profession_id": "36",
+        "profession_dsc": "Comerciante"
+    },
+    {
+        "profession_id": "37",
+        "profession_dsc": "Comissário de bordo"
+    },
+    {
+        "profession_id": "38",
+        "profession_dsc": "Compositor"
+    },
+    {
+        "profession_id": "39",
+        "profession_dsc": "Comunicólogo"
+    },
+    {
+        "profession_id": "40",
+        "profession_dsc": "Contador"
+    },
+    {
+        "profession_id": "41",
+        "profession_dsc": "Contramestre embarcações"
+    },
+    {
+        "profession_id": "42",
+        "profession_dsc": "Coreógrafo"
+    },
+    {
+        "profession_id": "43",
+        "profession_dsc": "Corretor de imóveis"
+    },
+    {
+        "profession_id": "44",
+        "profession_dsc": "Corretor de seguros"
+    },
+    {
+        "profession_id": "45",
+        "profession_dsc": "Corretor de títulos e valores"
+    },
+    {
+        "profession_id": "46",
+        "profession_dsc": "Cozinheiro"
+    },
+    {
+        "profession_id": "47",
+        "profession_dsc": "Datilógrafo"
+    },
+    {
+        "profession_id": "48",
+        "profession_dsc": "Decorador"
+    },
+    {
+        "profession_id": "49",
+        "profession_dsc": "Policial Civil - Delegado"
+    },
+    {
+        "profession_id": "50",
+        "profession_dsc": "Demonstrador"
+    },
+    {
+        "profession_id": "51",
+        "profession_dsc": "Despachante"
+    },
+    {
+        "profession_id": "52",
+        "profession_dsc": "Desempregado"
+    },
+    {
+        "profession_id": "53",
+        "profession_dsc": "Desenhista comercial"
+    },
+    {
+        "profession_id": "54",
+        "profession_dsc": "Desenhista industrial"
+    },
+    {
+        "profession_id": "55",
+        "profession_dsc": "Diplomata"
+    },
+    {
+        "profession_id": "56",
+        "profession_dsc": "Diretor de empresa"
+    },
+    {
+        "profession_id": "57",
+        "profession_dsc": "Diretor Espetáculos Públicos"
+    },
+    {
+        "profession_id": "58",
+        "profession_dsc": "Diretor estabelecimento ensino"
+    },
+    {
+        "profession_id": "59",
+        "profession_dsc": "Do lar"
+    },
+    {
+        "profession_id": "60",
+        "profession_dsc": "Economiário"
+    },
+    {
+        "profession_id": "61",
+        "profession_dsc": "Economista"
+    },
+    {
+        "profession_id": "62",
+        "profession_dsc": "Eletricista"
+    },
+    {
+        "profession_id": "63",
+        "profession_dsc": "Embalador"
+    },
+    {
+        "profession_id": "64",
+        "profession_dsc": "Embalsamador"
+    },
+    {
+        "profession_id": "65",
+        "profession_dsc": "Empregado doméstico"
+    },
+    {
+        "profession_id": "66",
+        "profession_dsc": "Empresário"
+    },
+    {
+        "profession_id": "67",
+        "profession_dsc": "Enfermeiro"
+    },
+    {
+        "profession_id": "68",
+        "profession_dsc": "Engenheiro"
+    },
+    {
+        "profession_id": "69",
+        "profession_dsc": "Escultor"
+    },
+    {
+        "profession_id": "70",
+        "profession_dsc": "Estagiário/Bolsista"
+    },
+    {
+        "profession_id": "71",
+        "profession_dsc": "Estatístico"
+    },
+    {
+        "profession_id": "72",
+        "profession_dsc": "Estenógrafo"
+    },
+    {
+        "profession_id": "73",
+        "profession_dsc": "Esteticista"
+    },
+    {
+        "profession_id": "74",
+        "profession_dsc": "Estivador"
+    },
+    {
+        "profession_id": "75",
+        "profession_dsc": "Estudante"
+    },
+    {
+        "profession_id": "76",
+        "profession_dsc": "Farmacêutico"
+    },
+    {
+        "profession_id": "77",
+        "profession_dsc": "Faxineiro"
+    },
+    {
+        "profession_id": "78",
+        "profession_dsc": "Feirante"
+    },
+    {
+        "profession_id": "79",
+        "profession_dsc": "Fiandeiro"
+    },
+    {
+        "profession_id": "80",
+        "profession_dsc": "Fiscal"
+    },
+    {
+        "profession_id": "81",
+        "profession_dsc": "Físico"
+    },
+    {
+        "profession_id": "82",
+        "profession_dsc": "Fisioterapeuta"
+    },
+    {
+        "profession_id": "83",
+        "profession_dsc": "Fonoaudiólogo"
+    },
+    {
+        "profession_id": "84",
+        "profession_dsc": "Freira"
+    },
+    {
+        "profession_id": "85",
+        "profession_dsc": "Garagista"
+    },
+    {
+        "profession_id": "86",
+        "profession_dsc": "Garçom"
+    },
+    {
+        "profession_id": "87",
+        "profession_dsc": "Garimpeiro"
+    },
+    {
+        "profession_id": "88",
+        "profession_dsc": "Geógrafo"
+    },
+    {
+        "profession_id": "89",
+        "profession_dsc": "Geólogo"
+    },
+    {
+        "profession_id": "90",
+        "profession_dsc": "Gerente de empresa"
+    },
+    {
+        "profession_id": "91",
+        "profession_dsc": "Governanta"
+    },
+    {
+        "profession_id": "92",
+        "profession_dsc": "Guarda municipal"
+    },
+    {
+        "profession_id": "93",
+        "profession_dsc": "Guia de turismo"
+    },
+    {
+        "profession_id": "94",
+        "profession_dsc": "Inspetor de compras/vendas"
+    },
+    {
+        "profession_id": "95",
+        "profession_dsc": "Instalador água, gás, esgoto"
+    },
+    {
+        "profession_id": "96",
+        "profession_dsc": "Jardineiro"
+    },
+    {
+        "profession_id": "97",
+        "profession_dsc": "Joalheiro"
+    },
+    {
+        "profession_id": "98",
+        "profession_dsc": "Jornaleiro"
+    },
+    {
+        "profession_id": "99",
+        "profession_dsc": "Jornalista"
+    },
+    {
+        "profession_id": "100",
+        "profession_dsc": "Lanterneiro"
+    },
+    {
+        "profession_id": "101",
+        "profession_dsc": "Leiloeiro"
+    },
+    {
+        "profession_id": "102",
+        "profession_dsc": "Locutor, comentarista"
+    },
+    {
+        "profession_id": "103",
+        "profession_dsc": "Manicure, pedicure"
+    },
+    {
+        "profession_id": "104",
+        "profession_dsc": "Maquilador"
+    },
+    {
+        "profession_id": "105",
+        "profession_dsc": "Maquinista embarcações"
+    },
+    {
+        "profession_id": "106",
+        "profession_dsc": "Marinheiro"
+    },
+    {
+        "profession_id": "107",
+        "profession_dsc": "Massagista"
+    },
+    {
+        "profession_id": "108",
+        "profession_dsc": "Matemático, atuário"
+    },
+    {
+        "profession_id": "109",
+        "profession_dsc": "Mecânico"
+    },
+    {
+        "profession_id": "110",
+        "profession_dsc": "Médico"
+    },
+    {
+        "profession_id": "111",
+        "profession_dsc": "Membro de ordem religiosa"
+    },
+    {
+        "profession_id": "112",
+        "profession_dsc": "Membro do Poder Executivo"
+    },
+    {
+        "profession_id": "113",
+        "profession_dsc": "Membro do Poder Judiciário"
+    },
+    {
+        "profession_id": "114",
+        "profession_dsc": "Membro do Poder Legislativo"
+    },
+    {
+        "profession_id": "115",
+        "profession_dsc": "Mestre/contramestre indústria"
+    },
+    {
+        "profession_id": "116",
+        "profession_dsc": "Militar das Forças Armadas"
+    },
+    {
+        "profession_id": "117",
+        "profession_dsc": "Modelo, manequim"
+    },
+    {
+        "profession_id": "118",
+        "profession_dsc": "Montador"
+    },
+    {
+        "profession_id": "119",
+        "profession_dsc": "Motorista transporte cargas"
+    },
+    {
+        "profession_id": "120",
+        "profession_dsc": "Motorista transporte passageiros"
+    },
+    {
+        "profession_id": "121",
+        "profession_dsc": "Museólogo"
+    },
+    {
+        "profession_id": "122",
+        "profession_dsc": "Músico"
+    },
+    {
+        "profession_id": "123",
+        "profession_dsc": "Não trabalha"
+    },
+    {
+        "profession_id": "124",
+        "profession_dsc": "Nutricionista"
+    },
+    {
+        "profession_id": "125",
+        "profession_dsc": "Odontólogo"
+    },
+    {
+        "profession_id": "126",
+        "profession_dsc": "Oficial das Forças Armadas"
+    },
+    {
+        "profession_id": "127",
+        "profession_dsc": "Operador câmeras tv/cinema"
+    },
+    {
+        "profession_id": "128",
+        "profession_dsc": "Ourive"
+    },
+    {
+        "profession_id": "129",
+        "profession_dsc": "Pedreiro"
+    },
+    {
+        "profession_id": "130",
+        "profession_dsc": "Pensionista"
+    },
+    {
+        "profession_id": "131",
+        "profession_dsc": "Piloto de aeronaves"
+    },
+    {
+        "profession_id": "132",
+        "profession_dsc": "Pintor"
+    },
+    {
+        "profession_id": "133",
+        "profession_dsc": "Policial Militar - Praça"
+    },
+    {
+        "profession_id": "134",
+        "profession_dsc": "Porteiro"
+    },
+    {
+        "profession_id": "135",
+        "profession_dsc": "Prep./Operador Máquinas Industriais"
+    },
+    {
+        "profession_id": "136",
+        "profession_dsc": "Procurador"
+    },
+    {
+        "profession_id": "137",
+        "profession_dsc": "Produtor"
+    },
+    {
+        "profession_id": "138",
+        "profession_dsc": "Professor de Ensino Superior"
+    },
+    {
+        "profession_id": "139",
+        "profession_dsc": "Professor Ensino I e II Graus"
+    },
+    {
+        "profession_id": "140",
+        "profession_dsc": "Profissional de Letras e Artes"
+    },
+    {
+        "profession_id": "141",
+        "profession_dsc": "Programador"
+    },
+    {
+        "profession_id": "142",
+        "profession_dsc": "Proprietário de Microempresa"
+    },
+    {
+        "profession_id": "143",
+        "profession_dsc": "Proprietário Estabelecimento Agrícola"
+    },
+    {
+        "profession_id": "144",
+        "profession_dsc": "Proprietário Estabelecimento Comercial"
+    },
+    {
+        "profession_id": "145",
+        "profession_dsc": "Proprietário Estabelecimento Industrial"
+    },
+    {
+        "profession_id": "146",
+        "profession_dsc": "Proprietário Estab. P. Serviços"
+    },
+    {
+        "profession_id": "147",
+        "profession_dsc": "Protético"
+    },
+    {
+        "profession_id": "148",
+        "profession_dsc": "Psicólogo"
+    },
+    {
+        "profession_id": "149",
+        "profession_dsc": "Publicitário"
+    },
+    {
+        "profession_id": "150",
+        "profession_dsc": "Químico"
+    },
+    {
+        "profession_id": "151",
+        "profession_dsc": "Recepcionista"
+    },
+    {
+        "profession_id": "152",
+        "profession_dsc": "Relações públicas"
+    },
+    {
+        "profession_id": "153",
+        "profession_dsc": "Representante comercial"
+    },
+    {
+        "profession_id": "154",
+        "profession_dsc": "Sacerdote"
+    },
+    {
+        "profession_id": "155",
+        "profession_dsc": "Secretária"
+    },
+    {
+        "profession_id": "156",
+        "profession_dsc": "Securitário"
+    },
+    {
+        "profession_id": "157",
+        "profession_dsc": "Serventuário da justiça"
+    },
+    {
+        "profession_id": "158",
+        "profession_dsc": "Servidor Público - Estadual"
+    },
+    {
+        "profession_id": "159",
+        "profession_dsc": "Servidor Público - Federal"
+    },
+    {
+        "profession_id": "160",
+        "profession_dsc": "Servidor Público - Municipal"
+    },
+    {
+        "profession_id": "161",
+        "profession_dsc": "Sociólogo"
+    },
+    {
+        "profession_id": "162",
+        "profession_dsc": "Supervisor de compras/vendas"
+    },
+    {
+        "profession_id": "163",
+        "profession_dsc": "Tabelião"
+    },
+    {
+        "profession_id": "164",
+        "profession_dsc": "Taxista"
+    },
+    {
+        "profession_id": "165",
+        "profession_dsc": "Tecelão"
+    },
+    {
+        "profession_id": "166",
+        "profession_dsc": "Técnico contábil"
+    },
+    {
+        "profession_id": "167",
+        "profession_dsc": "Técnico de biologia"
+    },
+    {
+        "profession_id": "168",
+        "profession_dsc": "Técnico de eletricidade"
+    },
+    {
+        "profession_id": "169",
+        "profession_dsc": "Técnico de eletrônica"
+    },
+    {
+        "profession_id": "170",
+        "profession_dsc": "Técnico de estatística"
+    },
+    {
+        "profession_id": "171",
+        "profession_dsc": "Técnico de laboratório"
+    },
+    {
+        "profession_id": "172",
+        "profession_dsc": "Técnico de mecânica"
+    },
+    {
+        "profession_id": "173",
+        "profession_dsc": "Técnico de química"
+    },
+    {
+        "profession_id": "174",
+        "profession_dsc": "Técnico de raio x"
+    },
+    {
+        "profession_id": "175",
+        "profession_dsc": "Técnico de telecomunicações"
+    },
+    {
+        "profession_id": "176",
+        "profession_dsc": "Técnico em agrimensura"
+    },
+    {
+        "profession_id": "177",
+        "profession_dsc": "Técnico em agronomia"
+    },
+    {
+        "profession_id": "178",
+        "profession_dsc": "Técnico em desportos"
+    },
+    {
+        "profession_id": "179",
+        "profession_dsc": "Tecnólogo"
+    },
+    {
+        "profession_id": "180",
+        "profession_dsc": "Telefonista"
+    },
+    {
+        "profession_id": "181",
+        "profession_dsc": "Terapeuta ocupacional"
+    },
+    {
+        "profession_id": "182",
+        "profession_dsc": "Tintureiro"
+    },
+    {
+        "profession_id": "183",
+        "profession_dsc": "Trab. Artes Gráficas"
+    },
+    {
+        "profession_id": "184",
+        "profession_dsc": "Trabalhador - Construção civil"
+    },
+    {
+        "profession_id": "185",
+        "profession_dsc": "Trabalhador - Ind. alimentos"
+    },
+    {
+        "profession_id": "186",
+        "profession_dsc": "Trabalhador - Ind. madeira"
+    },
+    {
+        "profession_id": "187",
+        "profession_dsc": "Trabalhador - Ind. borracha/plástico"
+    },
+    {
+        "profession_id": "188",
+        "profession_dsc": "Trabalhador - Ind. calçado/couro"
+    },
+    {
+        "profession_id": "189",
+        "profession_dsc": "Trabalhador - Ind. cigarros"
+    },
+    {
+        "profession_id": "190",
+        "profession_dsc": "Trabalhador - Ind. vestuário"
+    },
+    {
+        "profession_id": "191",
+        "profession_dsc": "Trabalhador - Ind. metalúrgica"
+    },
+    {
+        "profession_id": "192",
+        "profession_dsc": "Trabalhador - Ind. papel, celulose"
+    },
+    {
+        "profession_id": "193",
+        "profession_dsc": "Trabalhador - Ind. prod. têxteis"
+    },
+    {
+        "profession_id": "194",
+        "profession_dsc": "Trabalhador - Ind. química"
+    },
+    {
+        "profession_id": "195",
+        "profession_dsc": "Trabalhador - Ind. siderúrgica"
+    },
+    {
+        "profession_id": "196",
+        "profession_dsc": "Trabalhador agrícola"
+    },
+    {
+        "profession_id": "197",
+        "profession_dsc": "Trabalhador da pecuária"
+    },
+    {
+        "profession_id": "198",
+        "profession_dsc": "Trabalhador da pesca"
+    },
+    {
+        "profession_id": "199",
+        "profession_dsc": "Vendedor Comércio Var./Atac."
+    },
+    {
+        "profession_id": "200",
+        "profession_dsc": "Vendedor pracista"
+    },
+    {
+        "profession_id": "201",
+        "profession_dsc": "Pastor"
+    },
+    {
+        "profession_id": "202",
+        "profession_dsc": "Vigia"
+    },
+    {
+        "profession_id": "203",
+        "profession_dsc": "Zelador"
+    },
+    {
+        "profession_id": "204",
+        "profession_dsc": "Fotógrafo"
+    },
+    {
+        "profession_id": "205",
+        "profession_dsc": "Policial Civil - Escrivão"
+    },
+    {
+        "profession_id": "206",
+        "profession_dsc": "Frentista"
+    },
+    {
+        "profession_id": "207",
+        "profession_dsc": "Outra profissão"
+    },
+    {
+        "profession_id": "208",
+        "profession_dsc": "Autônomo"
+    },
+    {
+        "profession_id": "209",
+        "profession_dsc": "Operador de caixa"
+    },
+    {
+        "profession_id": "210",
+        "profession_dsc": "Taifeiro"
+    },
+    {
+        "profession_id": "211",
+        "profession_dsc": "Serviços gerais"
+    },
+    {
+        "profession_id": "212",
+        "profession_dsc": "Servente de pedreiro"
+    },
+    {
+        "profession_id": "213",
+        "profession_dsc": "Cortador de Pedra"
+    },
+    {
+        "profession_id": "214",
+        "profession_dsc": "Trabalhador da agro-indústria"
+    },
+    {
+        "profession_id": "215",
+        "profession_dsc": "Chapa"
+    },
+    {
+        "profession_id": "216",
+        "profession_dsc": "Calceteiro"
+    },
+    {
+        "profession_id": "217",
+        "profession_dsc": "Gari"
+    },
+    {
+        "profession_id": "218",
+        "profession_dsc": "Carpinteiro"
+    },
+    {
+        "profession_id": "219",
+        "profession_dsc": "Promotor de vendas"
+    },
+    {
+        "profession_id": "220",
+        "profession_dsc": "Designer"
+    },
+    {
+        "profession_id": "221",
+        "profession_dsc": "Operador de produção"
+    },
+    {
+        "profession_id": "222",
+        "profession_dsc": "Motorista"
+    },
+    {
+        "profession_id": "223",
+        "profession_dsc": "Aeroviário"
+    },
+    {
+        "profession_id": "224",
+        "profession_dsc": "Gráfico"
+    },
+    {
+        "profession_id": "225",
+        "profession_dsc": "Vidraceiro"
+    },
+    {
+        "profession_id": "226",
+        "profession_dsc": "Torneiro mecânico"
+    },
+    {
+        "profession_id": "227",
+        "profession_dsc": "Comerciário"
+    },
+    {
+        "profession_id": "228",
+        "profession_dsc": "Costureiro"
+    },
+    {
+        "profession_id": "229",
+        "profession_dsc": "Oleiro"
+    },
+    {
+        "profession_id": "230",
+        "profession_dsc": "Atendente"
+    },
+    {
+        "profession_id": "231",
+        "profession_dsc": "Auxiliar administrativo"
+    },
+    {
+        "profession_id": "233",
+        "profession_dsc": "Cobrador"
+    },
+    {
+        "profession_id": "234",
+        "profession_dsc": "Técnico em informática"
+    },
+    {
+        "profession_id": "235",
+        "profession_dsc": "Técnico em edificações"
+    },
+    {
+        "profession_id": "236",
+        "profession_dsc": "Assistente organizacional"
+    },
+    {
+        "profession_id": "237",
+        "profession_dsc": "Pescador"
+    },
+    {
+        "profession_id": "238",
+        "profession_dsc": "Marceneiro"
+    },
+    {
+        "profession_id": "239",
+        "profession_dsc": "Auxiliar de produção"
+    },
+    {
+        "profession_id": "240",
+        "profession_dsc": "Armador"
+    },
+    {
+        "profession_id": "241",
+        "profession_dsc": "Suinocultor"
+    },
+    {
+        "profession_id": "242",
+        "profession_dsc": "Avicultor"
+    },
+    {
+        "profession_id": "243",
+        "profession_dsc": "Pecuarista"
+    },
+    {
+        "profession_id": "244",
+        "profession_dsc": "Técnico de enfermagem"
+    },
+    {
+        "profession_id": "245",
+        "profession_dsc": "Padeiro"
+    },
+    {
+        "profession_id": "246",
+        "profession_dsc": "Conselheiro tutelar"
+    },
+    {
+        "profession_id": "247",
+        "profession_dsc": "Portuário"
+    },
+    {
+        "profession_id": "248",
+        "profession_dsc": "Técnico em logística"
+    },
+    {
+        "profession_id": "249",
+        "profession_dsc": "Conferente"
+    },
+    {
+        "profession_id": "250",
+        "profession_dsc": "Operador de máquinas"
+    },
+    {
+        "profession_id": "251",
+        "profession_dsc": "Relojoeiro"
+    },
+    {
+        "profession_id": "252",
+        "profession_dsc": "Catador de papelão"
+    },
+    {
+        "profession_id": "253",
+        "profession_dsc": "Motoboy"
+    },
+    {
+        "profession_id": "254",
+        "profession_dsc": "Operário"
+    },
+    {
+        "profession_id": "255",
+        "profession_dsc": "Reciclador"
+    },
+    {
+        "profession_id": "256",
+        "profession_dsc": "Borracheiro"
+    },
+    {
+        "profession_id": "257",
+        "profession_dsc": "Tatuador"
+    },
+    {
+        "profession_id": "258",
+        "profession_dsc": "Balconista"
+    },
+    {
+        "profession_id": "259",
+        "profession_dsc": "Diarista"
+    },
+    {
+        "profession_id": "260",
+        "profession_dsc": "Vendedor autônomo"
+    },
+    {
+        "profession_id": "261",
+        "profession_dsc": "Vendedor ambulante"
+    },
+    {
+        "profession_id": "262",
+        "profession_dsc": "Policial Rodoviário Federal"
+    },
+    {
+        "profession_id": "263",
+        "profession_dsc": "Policial Militar Rodoviário"
+    },
+    {
+        "profession_id": "264",
+        "profession_dsc": "Auxiliar de enfermagem"
+    },
+    {
+        "profession_id": "265",
+        "profession_dsc": "Metalúrgico"
+    },
+    {
+        "profession_id": "266",
+        "profession_dsc": "Mineiro"
+    },
+    {
+        "profession_id": "267",
+        "profession_dsc": "Ceramista"
+    },
+    {
+        "profession_id": "268",
+        "profession_dsc": "Instrutor"
+    },
+    {
+        "profession_id": "269",
+        "profession_dsc": "Extrusor"
+    },
+    {
+        "profession_id": "270",
+        "profession_dsc": "Agente de saúde"
+    },
+    {
+        "profession_id": "271",
+        "profession_dsc": "Revisor"
+    },
+    {
+        "profession_id": "273",
+        "profession_dsc": "Serralheiro"
+    },
+    {
+        "profession_id": "274",
+        "profession_dsc": "Artesão"
+    },
+    {
+        "profession_id": "275",
+        "profession_dsc": "Agente de trânsito"
+    },
+    {
+        "profession_id": "276",
+        "profession_dsc": "Juiz de Direito"
+    },
+    {
+        "profession_id": "277",
+        "profession_dsc": "Desembargador"
+    },
+    {
+        "profession_id": "278",
+        "profession_dsc": "Carteiro"
+    },
+    {
+        "profession_id": "279",
+        "profession_dsc": "Topógrafo"
+    },
+    {
+        "profession_id": "280",
+        "profession_dsc": "Estilista"
+    },
+    {
+        "profession_id": "281",
+        "profession_dsc": "Trabalhador/técnico em mineração"
+    },
+    {
+        "profession_id": "282",
+        "profession_dsc": "Policial Civil - Agente"
+    },
+    {
+        "profession_id": "283",
+        "profession_dsc": "Diretor Penal"
+    },
+    {
+        "profession_id": "286",
+        "profession_dsc": "Auxiliar de cozinha"
+    },
+    {
+        "profession_id": "287",
+        "profession_dsc": "Chacreiro"
+    },
+    {
+        "profession_id": "288",
+        "profession_dsc": "Teleatendente"
+    },
+    {
+        "profession_id": "289",
+        "profession_dsc": "Técnico comercial"
+    },
+    {
+        "profession_id": "290",
+        "profession_dsc": "Office boy"
+    },
+    {
+        "profession_id": "291",
+        "profession_dsc": "Vigilante"
+    },
+    {
+        "profession_id": "292",
+        "profession_dsc": "Digitador"
+    },
+    {
+        "profession_id": "293",
+        "profession_dsc": "Socorrista"
+    },
+    {
+        "profession_id": "294",
+        "profession_dsc": "Policial Federal"
+    },
+    {
+        "profession_id": "295",
+        "profession_dsc": "Soldador"
+    },
+    {
+        "profession_id": "296",
+        "profession_dsc": "Policial Penal"
+    },
+    {
+        "profession_id": "297",
+        "profession_dsc": "Auxiliar de almoxarifado"
+    },
+    {
+        "profession_id": "298",
+        "profession_dsc": "Pizzaiolo"
+    },
+    {
+        "profession_id": "299",
+        "profession_dsc": "Técnico em segurança do trabalho"
+    },
+    {
+        "profession_id": "300",
+        "profession_dsc": "Oficial de justiça"
+    },
+    {
+        "profession_id": "301",
+        "profession_dsc": "Turismólogo"
+    },
+    {
+        "profession_id": "302",
+        "profession_dsc": "Promotor de Justiça"
+    },
+    {
+        "profession_id": "303",
+        "profession_dsc": "Chapeador"
+    },
+    {
+        "profession_id": "304",
+        "profession_dsc": "Funileiro"
+    },
+    {
+        "profession_id": "305",
+        "profession_dsc": "Analista de Importação"
+    },
+    {
+        "profession_id": "306",
+        "profession_dsc": "Analista Fiscal"
+    },
+    {
+        "profession_id": "307",
+        "profession_dsc": "Açougueiro"
+    },
+    {
+        "profession_id": "310",
+        "profession_dsc": "Veterinário"
+    },
+    {
+        "profession_id": "311",
+        "profession_dsc": "Agente socioeducativo"
+    },
+    {
+        "profession_id": "312",
+        "profession_dsc": "Auxiliar Pericial Criminalístico"
+    },
+    {
+        "profession_id": "313",
+        "profession_dsc": "Auxiliar Pericial de Laboratório"
+    },
+    {
+        "profession_id": "314",
+        "profession_dsc": "Auxiliar Pericial Médico-Legal"
+    },
+    {
+        "profession_id": "315",
+        "profession_dsc": "Papiloscopista - Técnico Pericial"
+    },
+    {
+        "profession_id": "316",
+        "profession_dsc": "Perito Criminal"
+    },
+    {
+        "profession_id": "317",
+        "profession_dsc": "Perito Criminal Bioquímico"
+    },
+    {
+        "profession_id": "318",
+        "profession_dsc": "Perito Médico-Legista"
+    },
+    {
+        "profession_id": "319",
+        "profession_dsc": "Perito Odontolegista"
+    },
+    {
+        "profession_id": "320",
+        "profession_dsc": "Policial Militar - Oficial"
+    },
+    {
+        "profession_id": "321",
+        "profession_dsc": "Bombeiro Militar - Oficial"
+    },
+    {
+        "profession_id": "322",
+        "profession_dsc": "Bombeiro Civil"
+    },
+    {
+        "profession_id": "323",
+        "profession_dsc": "Policial Civil - Psicólogo"
+    },
+    {
+        "profession_id": "324",
+        "profession_dsc": "Encanador"
+    },
+    {
+        "profession_id": "325",
+        "profession_dsc": "Militar - Aeronáutica"
+    },
+    {
+        "profession_id": "326",
+        "profession_dsc": "Militar - Exército"
+    },
+    {
+        "profession_id": "327",
+        "profession_dsc": "Militar - Marinha"
+    },
+    {
+        "profession_id": "328",
+        "profession_dsc": "Oficial - Aeronáutica"
+    },
+    {
+        "profession_id": "329",
+        "profession_dsc": "Oficial - Exército"
+    },
+    {
+        "profession_id": "330",
+        "profession_dsc": "Oficial - Marinha"
+    },
+    {
+        "profession_id": "331",
+        "profession_dsc": "Professor"
+    },
+    {
+        "profession_id": "332",
+        "profession_dsc": "Agente Socioeducativo (Temporário)"
+    },
+    {
+        "profession_id": "333",
+        "profession_dsc": "Agente Penitenciário (Temporário)"
+    },
+    {
+        "profession_id": "32767",
+        "profession_dsc": "Não informada"
+    }
+]

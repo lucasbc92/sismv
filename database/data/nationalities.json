@@ -1,0 +1,14 @@
+[
+    {
+        "nationality_id": "1",
+        "nationality_dsc": "Brasileiro"
+    },
+    {
+        "nationality_id": "2",
+        "nationality_dsc": "Estrangeiro"
+    },
+    {
+        "nationality_id": "32767",
+        "nationality_dsc": "Não informada"
+    }
+]

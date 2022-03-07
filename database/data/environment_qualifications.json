@@ -1,0 +1,27 @@
+[
+    {
+        "environment_qualification_id": "1",
+        "environment_qualification_dsc": "Abandonada",
+        "environment_classification": "8"
+    },
+    {
+        "environment_qualification_id": "2",
+        "environment_qualification_dsc": "Sem Morador",
+        "environment_classification": "8"
+    },
+    {
+        "environment_qualification_id": "3",
+        "environment_qualification_dsc": "Morador Presente",
+        "environment_classification": "8"
+    },
+    {
+        "environment_qualification_id": "4",
+        "environment_qualification_dsc": "Morador Ausente",
+        "environment_classification": "8"
+    },
+    {
+        "environment_qualification_id": "5",
+        "environment_qualification_dsc": "Em Construção",
+        "environment_classification": "8"
+    }
+]

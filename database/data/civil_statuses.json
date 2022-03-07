@@ -1,0 +1,30 @@
+[
+    {
+        "civil_status_id": "1",
+        "civil_status_dsc": "Solteiro"
+    },
+    {
+        "civil_status_id": "2",
+        "civil_status_dsc": "Casado"
+    },
+    {
+        "civil_status_id": "3",
+        "civil_status_dsc": "Viúvo"
+    },
+    {
+        "civil_status_id": "5",
+        "civil_status_dsc": "Separado"
+    },
+    {
+        "civil_status_id": "6",
+        "civil_status_dsc": "Divorciado"
+    },
+    {
+        "civil_status_id": "7",
+        "civil_status_dsc": "União estável"
+    },
+    {
+        "civil_status_id": "32767",
+        "civil_status_dsc": "Não informado"
+    }
+]

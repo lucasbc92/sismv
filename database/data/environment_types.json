@@ -1,0 +1,682 @@
+[
+    {
+        "environment_type_id": "1",
+        "environment_type_dsc": "Agência bancária",
+        "environment_classification": "1"
+    },
+    {
+        "environment_type_id": "2",
+        "environment_type_dsc": "Caixa eletrônico",
+        "environment_classification": "1"
+    },
+    {
+        "environment_type_id": "3",
+        "environment_type_dsc": "Posto de atendimento",
+        "environment_classification": "1"
+    },
+    {
+        "environment_type_id": "4",
+        "environment_type_dsc": "Casa de câmbio",
+        "environment_classification": "1"
+    },
+    {
+        "environment_type_id": "5",
+        "environment_type_dsc": "Transporte de valor",
+        "environment_classification": "1"
+    },
+    {
+        "environment_type_id": "6",
+        "environment_type_dsc": "Casa lotérica",
+        "environment_classification": "1"
+    },
+    {
+        "environment_type_id": "7",
+        "environment_type_dsc": "Federal",
+        "environment_classification": "2"
+    },
+    {
+        "environment_type_id": "8",
+        "environment_type_dsc": "Estadual",
+        "environment_classification": "2"
+    },
+    {
+        "environment_type_id": "9",
+        "environment_type_dsc": "Municipal",
+        "environment_classification": "2"
+    },
+    {
+        "environment_type_id": "10",
+        "environment_type_dsc": "Particular",
+        "environment_classification": "2"
+    },
+    {
+        "environment_type_id": "11",
+        "environment_type_dsc": "Clínica",
+        "environment_classification": "3"
+    },
+    {
+        "environment_type_id": "12",
+        "environment_type_dsc": "Consultório",
+        "environment_classification": "3"
+    },
+    {
+        "environment_type_id": "13",
+        "environment_type_dsc": "Farmácia",
+        "environment_classification": "3"
+    },
+    {
+        "environment_type_id": "14",
+        "environment_type_dsc": "Hospital",
+        "environment_classification": "3"
+    },
+    {
+        "environment_type_id": "15",
+        "environment_type_dsc": "Posto de saúde",
+        "environment_classification": "3"
+    },
+    {
+        "environment_type_id": "16",
+        "environment_type_dsc": "Posto com loja de conveniência",
+        "environment_classification": "4"
+    },
+    {
+        "environment_type_id": "17",
+        "environment_type_dsc": "Posto sem loja de conveniência",
+        "environment_classification": "4"
+    },
+    {
+        "environment_type_id": "18",
+        "environment_type_dsc": "Clube desportivo",
+        "environment_classification": "5"
+    },
+    {
+        "environment_type_id": "19",
+        "environment_type_dsc": "Clube social",
+        "environment_classification": "5"
+    },
+    {
+        "environment_type_id": "20",
+        "environment_type_dsc": "Conselho",
+        "environment_classification": "5"
+    },
+    {
+        "environment_type_id": "21",
+        "environment_type_dsc": "Associação de bairro",
+        "environment_classification": "5"
+    },
+    {
+        "environment_type_id": "22",
+        "environment_type_dsc": "Filantrópica",
+        "environment_classification": "5"
+    },
+    {
+        "environment_type_id": "23",
+        "environment_type_dsc": "Política",
+        "environment_classification": "5"
+    },
+    {
+        "environment_type_id": "24",
+        "environment_type_dsc": "Sindicato",
+        "environment_classification": "5"
+    },
+    {
+        "environment_type_id": "25",
+        "environment_type_dsc": "Cooperativa",
+        "environment_classification": "5"
+    },
+    {
+        "environment_type_id": "26",
+        "environment_type_dsc": "Religiosa (Igreja/Templo)",
+        "environment_classification": "5"
+    },
+    {
+        "environment_type_id": "119",
+        "environment_type_dsc": "ONG",
+        "environment_classification": "5"
+    },
+    {
+        "environment_type_id": "120",
+        "environment_type_dsc": "Via férrea",
+        "environment_classification": "6"
+    },
+    {
+        "environment_type_id": "27",
+        "environment_type_dsc": "Aeroporto",
+        "environment_classification": "6"
+    },
+    {
+        "environment_type_id": "28",
+        "environment_type_dsc": "Porto",
+        "environment_classification": "6"
+    },
+    {
+        "environment_type_id": "29",
+        "environment_type_dsc": "Terminal urbano",
+        "environment_classification": "6"
+    },
+    {
+        "environment_type_id": "30",
+        "environment_type_dsc": "Terminal rodoviário",
+        "environment_classification": "6"
+    },
+    {
+        "environment_type_id": "31",
+        "environment_type_dsc": "Terminal ferroviário",
+        "environment_classification": "6"
+    },
+    {
+        "environment_type_id": "32",
+        "environment_type_dsc": "Transporte de carga",
+        "environment_classification": "6"
+    },
+    {
+        "environment_type_id": "33",
+        "environment_type_dsc": "Ponto de ônibus",
+        "environment_classification": "6"
+    },
+    {
+        "environment_type_id": "34",
+        "environment_type_dsc": "Ponto de táxi",
+        "environment_classification": "6"
+    },
+    {
+        "environment_type_id": "35",
+        "environment_type_dsc": "Ônibus",
+        "environment_classification": "6"
+    },
+    {
+        "environment_type_id": "36",
+        "environment_type_dsc": "Táxi",
+        "environment_classification": "6"
+    },
+    {
+        "environment_type_id": "37",
+        "environment_type_dsc": "Marítimo/Fluvial",
+        "environment_classification": "6"
+    },
+    {
+        "environment_type_id": "38",
+        "environment_type_dsc": "Veículo em trânsito",
+        "environment_classification": "7"
+    },
+    {
+        "environment_type_id": "39",
+        "environment_type_dsc": "Estacionamento Pago",
+        "environment_classification": "7"
+    },
+    {
+        "environment_type_id": "40",
+        "environment_type_dsc": "Residência",
+        "environment_classification": "7"
+    },
+    {
+        "environment_type_id": "41",
+        "environment_type_dsc": "Estacionamento Outros",
+        "environment_classification": "7"
+    },
+    {
+        "environment_type_id": "121",
+        "environment_type_dsc": "Aeronave",
+        "environment_classification": "7"
+    },
+    {
+        "environment_type_id": "122",
+        "environment_type_dsc": "Embarcação",
+        "environment_classification": "7"
+    },
+    {
+        "environment_type_id": "123",
+        "environment_type_dsc": "Ônibus/Transporte coletivo",
+        "environment_classification": "7"
+    },
+    {
+        "environment_type_id": "124",
+        "environment_type_dsc": "Táxi",
+        "environment_classification": "7"
+    },
+    {
+        "environment_type_id": "132",
+        "environment_type_dsc": "Aplicativo de transporte",
+        "environment_classification": "7"
+    },
+    {
+        "environment_type_id": "133",
+        "environment_type_dsc": "Veículo parado",
+        "environment_classification": "7"
+    },
+    {
+        "environment_type_id": "134",
+        "environment_type_dsc": "Veículo estacionado",
+        "environment_classification": "7"
+    },
+    {
+        "environment_type_id": "42",
+        "environment_type_dsc": "Casa",
+        "environment_classification": "8"
+    },
+    {
+        "environment_type_id": "43",
+        "environment_type_dsc": "Condomínio de residências",
+        "environment_classification": "8"
+    },
+    {
+        "environment_type_id": "44",
+        "environment_type_dsc": "Apartamento",
+        "environment_classification": "8"
+    },
+    {
+        "environment_type_id": "45",
+        "environment_type_dsc": "Condomínio de apartamentos",
+        "environment_classification": "8"
+    },
+    {
+        "environment_type_id": "46",
+        "environment_type_dsc": "Mercearia",
+        "environment_classification": "9"
+    },
+    {
+        "environment_type_id": "47",
+        "environment_type_dsc": "Supermercado",
+        "environment_classification": "9"
+    },
+    {
+        "environment_type_id": "48",
+        "environment_type_dsc": "Feira",
+        "environment_classification": "9"
+    },
+    {
+        "environment_type_id": "49",
+        "environment_type_dsc": "Ambulante",
+        "environment_classification": "9"
+    },
+    {
+        "environment_type_id": "50",
+        "environment_type_dsc": "Atacado",
+        "environment_classification": "9"
+    },
+    {
+        "environment_type_id": "51",
+        "environment_type_dsc": "Panificadora",
+        "environment_classification": "9"
+    },
+    {
+        "environment_type_id": "52",
+        "environment_type_dsc": "Bar",
+        "environment_classification": "10"
+    },
+    {
+        "environment_type_id": "53",
+        "environment_type_dsc": "Boliche",
+        "environment_classification": "10"
+    },
+    {
+        "environment_type_id": "54",
+        "environment_type_dsc": "Casa show",
+        "environment_classification": "10"
+    },
+    {
+        "environment_type_id": "55",
+        "environment_type_dsc": "Circo",
+        "environment_classification": "10"
+    },
+    {
+        "environment_type_id": "56",
+        "environment_type_dsc": "Danceteria",
+        "environment_classification": "10"
+    },
+    {
+        "environment_type_id": "57",
+        "environment_type_dsc": "Lanchonete",
+        "environment_classification": "10"
+    },
+    {
+        "environment_type_id": "58",
+        "environment_type_dsc": "Parque de diversão",
+        "environment_classification": "10"
+    },
+    {
+        "environment_type_id": "59",
+        "environment_type_dsc": "Restaurante",
+        "environment_classification": "10"
+    },
+    {
+        "environment_type_id": "60",
+        "environment_type_dsc": "Sorveteria",
+        "environment_classification": "10"
+    },
+    {
+        "environment_type_id": "61",
+        "environment_type_dsc": "Teatro",
+        "environment_classification": "10"
+    },
+    {
+        "environment_type_id": "62",
+        "environment_type_dsc": "Lan house",
+        "environment_classification": "10"
+    },
+    {
+        "environment_type_id": "63",
+        "environment_type_dsc": "Cinema",
+        "environment_classification": "10"
+    },
+    {
+        "environment_type_id": "64",
+        "environment_type_dsc": "Praça desportiva",
+        "environment_classification": "10"
+    },
+    {
+        "environment_type_id": "65",
+        "environment_type_dsc": "Centro de eventos",
+        "environment_classification": "10"
+    },
+    {
+        "environment_type_id": "66",
+        "environment_type_dsc": "Armas/Munição",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "67",
+        "environment_type_dsc": "Autopeças",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "68",
+        "environment_type_dsc": "Banca de revistas",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "69",
+        "environment_type_dsc": "Bebidas",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "70",
+        "environment_type_dsc": "Calçados",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "71",
+        "environment_type_dsc": "Eletroeletrônicos",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "72",
+        "environment_type_dsc": "Informática",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "73",
+        "environment_type_dsc": "Joalheria",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "74",
+        "environment_type_dsc": "Materiais de construção",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "75",
+        "environment_type_dsc": "Materiais esportivos",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "76",
+        "environment_type_dsc": "Papelaria",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "77",
+        "environment_type_dsc": "Veículos",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "78",
+        "environment_type_dsc": "Vestuário",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "79",
+        "environment_type_dsc": "Vídeo locadora",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "80",
+        "environment_type_dsc": "Móveis",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "81",
+        "environment_type_dsc": "Distribuidor de gás",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "82",
+        "environment_type_dsc": "Shopping center",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "83",
+        "environment_type_dsc": "Agropecuária",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "84",
+        "environment_type_dsc": "Pet Shop",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "131",
+        "environment_type_dsc": "Agropecuária/Pet shop",
+        "environment_classification": "11"
+    },
+    {
+        "environment_type_id": "85",
+        "environment_type_dsc": "Alimentícia",
+        "environment_classification": "12"
+    },
+    {
+        "environment_type_id": "86",
+        "environment_type_dsc": "Cerâmica",
+        "environment_classification": "12"
+    },
+    {
+        "environment_type_id": "87",
+        "environment_type_dsc": "Madeireira",
+        "environment_classification": "12"
+    },
+    {
+        "environment_type_id": "88",
+        "environment_type_dsc": "Metalurgia",
+        "environment_classification": "12"
+    },
+    {
+        "environment_type_id": "89",
+        "environment_type_dsc": "Siderurgia",
+        "environment_classification": "12"
+    },
+    {
+        "environment_type_id": "90",
+        "environment_type_dsc": "Moveleira",
+        "environment_classification": "12"
+    },
+    {
+        "environment_type_id": "91",
+        "environment_type_dsc": "Papel/Celulose",
+        "environment_classification": "12"
+    },
+    {
+        "environment_type_id": "92",
+        "environment_type_dsc": "Petroquímica/Química",
+        "environment_classification": "12"
+    },
+    {
+        "environment_type_id": "93",
+        "environment_type_dsc": "Agroindústria",
+        "environment_classification": "12"
+    },
+    {
+        "environment_type_id": "94",
+        "environment_type_dsc": "Têxtil",
+        "environment_classification": "12"
+    },
+    {
+        "environment_type_id": "95",
+        "environment_type_dsc": "Hotel",
+        "environment_classification": "13"
+    },
+    {
+        "environment_type_id": "96",
+        "environment_type_dsc": "Motel",
+        "environment_classification": "13"
+    },
+    {
+        "environment_type_id": "97",
+        "environment_type_dsc": "Pensão",
+        "environment_classification": "13"
+    },
+    {
+        "environment_type_id": "98",
+        "environment_type_dsc": "Pousada",
+        "environment_classification": "13"
+    },
+    {
+        "environment_type_id": "99",
+        "environment_type_dsc": "Albergue",
+        "environment_classification": "13"
+    },
+    {
+        "environment_type_id": "100",
+        "environment_type_dsc": "Camping",
+        "environment_classification": "13"
+    },
+    {
+        "environment_type_id": "101",
+        "environment_type_dsc": "Escritório",
+        "environment_classification": "14"
+    },
+    {
+        "environment_type_id": "102",
+        "environment_type_dsc": "Estacionamento pago",
+        "environment_classification": "14"
+    },
+    {
+        "environment_type_id": "103",
+        "environment_type_dsc": "Consertos/Reparos",
+        "environment_classification": "14"
+    },
+    {
+        "environment_type_id": "104",
+        "environment_type_dsc": "Transportadora",
+        "environment_classification": "14"
+    },
+    {
+        "environment_type_id": "105",
+        "environment_type_dsc": "Vigilância/Limpeza",
+        "environment_classification": "14"
+    },
+    {
+        "environment_type_id": "106",
+        "environment_type_dsc": "Construtora",
+        "environment_classification": "14"
+    },
+    {
+        "environment_type_id": "107",
+        "environment_type_dsc": "Agência dos Correios",
+        "environment_classification": "14"
+    },
+    {
+        "environment_type_id": "136",
+        "environment_type_dsc": "Barbearia/Salão de beleza/Estética",
+        "environment_classification": "14"
+    },
+    {
+        "environment_type_id": "108",
+        "environment_type_dsc": "Internacional",
+        "environment_classification": "15"
+    },
+    {
+        "environment_type_id": "109",
+        "environment_type_dsc": "Estadual",
+        "environment_classification": "15"
+    },
+    {
+        "environment_type_id": "110",
+        "environment_type_dsc": "Federal",
+        "environment_classification": "15"
+    },
+    {
+        "environment_type_id": "111",
+        "environment_type_dsc": "Municipal",
+        "environment_classification": "15"
+    },
+    {
+        "environment_type_id": "112",
+        "environment_type_dsc": "Praça/Parque",
+        "environment_classification": "16"
+    },
+    {
+        "environment_type_id": "113",
+        "environment_type_dsc": "Terreno baldio",
+        "environment_classification": "16"
+    },
+    {
+        "environment_type_id": "114",
+        "environment_type_dsc": "Área de mata",
+        "environment_classification": "16"
+    },
+    {
+        "environment_type_id": "115",
+        "environment_type_dsc": "Praia/Duna",
+        "environment_classification": "16"
+    },
+    {
+        "environment_type_id": "116",
+        "environment_type_dsc": "Mar/Rio/Lagoa",
+        "environment_classification": "16"
+    },
+    {
+        "environment_type_id": "117",
+        "environment_type_dsc": "Propriedade agrícola",
+        "environment_classification": "16"
+    },
+    {
+        "environment_type_id": "118",
+        "environment_type_dsc": "Trilha",
+        "environment_classification": "16"
+    },
+    {
+        "environment_type_id": "135",
+        "environment_type_dsc": "Academia",
+        "environment_classification": "16"
+    },
+    {
+        "environment_type_id": "125",
+        "environment_type_dsc": "Casa de tolerância / Prostituição",
+        "environment_classification": "16"
+    },
+    {
+        "environment_type_id": "126",
+        "environment_type_dsc": "Estabelecimento Penal/Socioeducativo",
+        "environment_classification": "16"
+    },
+    {
+        "environment_type_id": "127",
+        "environment_type_dsc": "Estacionamento",
+        "environment_classification": "16"
+    },
+    {
+        "environment_type_id": "128",
+        "environment_type_dsc": "Estádio de futebol",
+        "environment_classification": "16"
+    },
+    {
+        "environment_type_id": "129",
+        "environment_type_dsc": "Terra indígena",
+        "environment_classification": "16"
+    },
+    {
+        "environment_type_id": "130",
+        "environment_type_dsc": "Imóvel em construção/obra",
+        "environment_classification": "16"
+    }
+]

@@ -1,0 +1,33 @@
+@baseUrl = http://localhost:8000/api 
+@contentType = application/json
+
+### Delete Fact
+
+DELETE {{baseUrl}}/facts/31
+Content-Type: {{contentType}}
+
+### Delete City 
+
+DELETE {{baseUrl}}/cities/5847
+Content-Type: {{contentType}}
+
+### Create Occurrence
+
+POST {{baseUrl}}/occurrences
+Content-Type: {{contentType}}
+
+{
+    "bo_unity": "0000",
+    "bo_year": "0000",
+    "bo_number": "000000",
+    "fact_date": "2021-12-09",
+    "fact_hour": "00:00",
+    "local_address": "Avenida Ivo Silveira",
+    "local_address_number": "123",
+    "local_lat_long": "-27.6011981/-48.581005",
+    "local_city": 4489,
+    "local_localization": 2,
+    "local_classification": 32767,
+    "local_zone": 2,
+    "observations": "É só um teste."
+}

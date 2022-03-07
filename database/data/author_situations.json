@@ -1,0 +1,30 @@
+[
+    {
+        "author_situation_id": "1",
+        "author_situation_dsc": "Morto em confronto"
+    },
+    {
+        "author_situation_id": "2",
+        "author_situation_dsc": "Morte posterior"
+    },
+    {
+        "author_situation_id": "3",
+        "author_situation_dsc": "Preso em flagrante"
+    },
+    {
+        "author_situation_id": "4",
+        "author_situation_dsc": "Preso por mandado"
+    },
+    {
+        "author_situation_id": "5",
+        "author_situation_dsc": "Solto/Foragido"
+    },
+    {
+        "author_situation_id": "6",
+        "author_situation_dsc": "Suicídio"
+    },
+    {
+        "author_situation_id": "7",
+        "author_situation_dsc": "Liberado após apresentação"
+    }
+]

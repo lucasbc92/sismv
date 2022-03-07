@@ -1,0 +1,54 @@
+[
+    {
+        "feminicide_relationship_type_id": "1",
+        "feminicide_relationship_type_dsc": "Companheira"
+    },
+    {
+        "feminicide_relationship_type_id": "2",
+        "feminicide_relationship_type_dsc": "Ex-companheira"
+    },
+    {
+        "feminicide_relationship_type_id": "3",
+        "feminicide_relationship_type_dsc": "Namorada"
+    },
+    {
+        "feminicide_relationship_type_id": "4",
+        "feminicide_relationship_type_dsc": "Ex-namorada"
+    },
+    {
+        "feminicide_relationship_type_id": "5",
+        "feminicide_relationship_type_dsc": "Filha"
+    },
+    {
+        "feminicide_relationship_type_id": "6",
+        "feminicide_relationship_type_dsc": "Mãe"
+    },
+    {
+        "feminicide_relationship_type_id": "7",
+        "feminicide_relationship_type_dsc": "Cunhada"
+    },
+    {
+        "feminicide_relationship_type_id": "8",
+        "feminicide_relationship_type_dsc": "Empregada doméstica"
+    },
+    {
+        "feminicide_relationship_type_id": "9",
+        "feminicide_relationship_type_dsc": "Prima"
+    },
+    {
+        "feminicide_relationship_type_id": "10",
+        "feminicide_relationship_type_dsc": "Sogra"
+    },
+    {
+        "feminicide_relationship_type_id": "11",
+        "feminicide_relationship_type_dsc": "Coabitação"
+    },
+    {
+        "feminicide_relationship_type_id": "12",
+        "feminicide_relationship_type_dsc": "Tia"
+    },
+    {
+        "feminicide_relationship_type_id": "3030",
+        "feminicide_relationship_type_dsc": "Outra relação"
+    }
+]

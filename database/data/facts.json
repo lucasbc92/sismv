@@ -1,0 +1,26 @@
+[
+    {
+        "fact_id": "33",
+        "fact_dsc": "Feminicídio"
+    },
+    {
+        "fact_id": "35",
+        "fact_dsc": "Homicídio - Doloso"
+    },
+    {
+        "fact_id": "83",
+        "fact_dsc": "Latrocínio"
+    },
+    {
+        "fact_id": "46",
+        "fact_dsc": "Lesão corporal seguida de morte"
+    },
+    {
+        "fact_id": "31",
+        "fact_dsc": "Pessoa morta em confronto por agente público em serviço"
+    },
+    {
+        "fact_id": "32",
+        "fact_dsc": "Pessoa morta em confronto por agente público fora de serviço"
+    }
+]

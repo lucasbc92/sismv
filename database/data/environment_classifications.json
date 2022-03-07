@@ -1,0 +1,127 @@
+[
+    {
+        "environment_classification_id": "18",
+        "environment_classification_dsc": "Facebook",
+        "environment_localization": "3"
+    },
+    {
+        "environment_classification_id": "19",
+        "environment_classification_dsc": "Instagram",
+        "environment_localization": "3"
+    },
+    {
+        "environment_classification_id": "20",
+        "environment_classification_dsc": "WhatsApp/App de troca de msgs",
+        "environment_localization": "3"
+    },
+    {
+        "environment_classification_id": "21",
+        "environment_classification_dsc": "E-mail",
+        "environment_localization": "3"
+    },
+    {
+        "environment_classification_id": "22",
+        "environment_classification_dsc": "Outra rede social",
+        "environment_localization": "3"
+    },
+    {
+        "environment_classification_id": "23",
+        "environment_classification_dsc": "Outro meio virtual",
+        "environment_localization": "3"
+    },
+    {
+        "environment_classification_id": "32767",
+        "environment_classification_dsc": "Sem classificação para via pública",
+        "environment_localization": "2"
+    },
+    {
+        "environment_classification_id": "32769",
+        "environment_classification_dsc": "OLX/Site de anúncio",
+        "environment_localization": "3"
+    },
+    {
+        "environment_classification_id": "32770",
+        "environment_classification_dsc": "Telefone",
+        "environment_localization": "3"
+    },
+    {
+        "environment_classification_id": "1",
+        "environment_classification_dsc": "Atividade financeira",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "2",
+        "environment_classification_dsc": "Ensino",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "3",
+        "environment_classification_dsc": "Saúde",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "4",
+        "environment_classification_dsc": "Posto de combustível",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "5",
+        "environment_classification_dsc": "Associação",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "6",
+        "environment_classification_dsc": "Transporte",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "7",
+        "environment_classification_dsc": "Veículo",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "8",
+        "environment_classification_dsc": "Residência",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "9",
+        "environment_classification_dsc": "Mercado",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "10",
+        "environment_classification_dsc": "Alimentação/Diversão",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "11",
+        "environment_classification_dsc": "Comércio",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "12",
+        "environment_classification_dsc": "Indústria",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "13",
+        "environment_classification_dsc": "Hospedagem",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "14",
+        "environment_classification_dsc": "Prestação de serviços",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "15",
+        "environment_classification_dsc": "Órgão público",
+        "environment_localization": "1"
+    },
+    {
+        "environment_classification_id": "16",
+        "environment_classification_dsc": "Outros ambientes",
+        "environment_localization": "1"
+    }
+]

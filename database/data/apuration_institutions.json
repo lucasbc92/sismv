@@ -1,0 +1,26 @@
+[
+    {
+        "apuration_institution_id": "1",
+        "apuration_institution_dsc": "PC"
+    },
+    {
+        "apuration_institution_id": "2",
+        "apuration_institution_dsc": "PM"
+    },
+    {
+        "apuration_institution_id": "3",
+        "apuration_institution_dsc": "PRF"
+    },
+    {
+        "apuration_institution_id": "4",
+        "apuration_institution_dsc": "PF"
+    },
+    {
+        "apuration_institution_id": "5",
+        "apuration_institution_dsc": "Guarda Municipal"
+    },
+    {
+        "apuration_institution_id": "6",
+        "apuration_institution_dsc": "Outra"
+    }
+]

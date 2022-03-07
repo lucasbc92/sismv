@@ -1,0 +1,18 @@
+[
+    {
+        "apuration_type_id": "1",
+        "apuration_type_dsc": "Apresentação espontânea"
+    },
+    {
+        "apuration_type_id": "2",
+        "apuration_type_dsc": "Flagrante logo após"
+    },
+    {
+        "apuration_type_id": "3",
+        "apuration_type_dsc": "Flagrante no ato"
+    },
+    {
+        "apuration_type_id": "4",
+        "apuration_type_dsc": "Investigação policial"
+    }
+]

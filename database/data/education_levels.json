@@ -1,0 +1,50 @@
+[
+    {
+        "education_level_id": "1",
+        "education_level_dsc": "Não Alfabetizado"
+    },
+    {
+        "education_level_id": "2",
+        "education_level_dsc": "Ensino fundamental incompleto"
+    },
+    {
+        "education_level_id": "3",
+        "education_level_dsc": "Ensino fundamental completo"
+    },
+    {
+        "education_level_id": "4",
+        "education_level_dsc": "Ensino médio incompleto"
+    },
+    {
+        "education_level_id": "5",
+        "education_level_dsc": "Ensino médio completo"
+    },
+    {
+        "education_level_id": "6",
+        "education_level_dsc": "Superior incompleto"
+    },
+    {
+        "education_level_id": "7",
+        "education_level_dsc": "Superior completo"
+    },
+    {
+        "education_level_id": "9",
+        "education_level_dsc": "Alfabetizado"
+    },
+    {
+        "education_level_id": "13",
+        "education_level_dsc": "Pós graduação"
+    },
+    {
+        "education_level_id": "14",
+        "education_level_dsc": "Mestrado"
+    },
+    {
+        "education_level_id": "15",
+        "education_level_dsc": "Doutorado"
+    },
+    {
+        "education_level_id": "32767",
+        "education_level_dsc": "Não Informado"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "environment_localization_id": "1",
+        "environment_localization_dsc": "Interior do ambiente"
+    },
+    {
+        "environment_localization_id": "2",
+        "environment_localization_dsc": "Via pública"
+    },
+    {
+        "environment_localization_id": "3",
+        "environment_localization_dsc": "Meio virtual"
+    },
+    {
+        "environment_localization_id": "32767",
+        "environment_localization_dsc": "Sem categoria para via pública"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "identification_type_id": "1",
+        "identification_type_dsc": "Completa"
+    },
+    {
+        "identification_type_id": "2",
+        "identification_type_dsc": "Incompleta"
+    }
+]

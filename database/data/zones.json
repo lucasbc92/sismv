@@ -1,0 +1,14 @@
+[
+    {
+        "zone_id": "1",
+        "zone_dsc": "Rural"
+    },
+    {
+        "zone_id": "2",
+        "zone_dsc": "Urbana"
+    },
+    {
+        "zone_id": "3",
+        "zone_dsc": "Não identificada"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "motivation_id": "1",
+        "motivation_dsc": "Alcoolismo"
+    },
+    {
+        "motivation_id": "2",
+        "motivation_dsc": "Conflito agrário"
+    },
+    {
+        "motivation_id": "3",
+        "motivation_dsc": "Conflito entre criminosos"
+    },
+    {
+        "motivation_id": "4",
+        "motivation_dsc": "Conflito entre vizinhos"
+    },
+    {
+        "motivation_id": "5",
+        "motivation_dsc": "Conflito no trânsito"
+    },
+    {
+        "motivation_id": "6",
+        "motivation_dsc": "Desacerto comercial"
+    },
+    {
+        "motivation_id": "7",
+        "motivation_dsc": "Desavença"
+    },
+    {
+        "motivation_id": "8",
+        "motivation_dsc": "Homofobia"
+    },
+    {
+        "motivation_id": "9",
+        "motivation_dsc": "Intolerância religiosa"
+    },
+    {
+        "motivation_id": "10",
+        "motivation_dsc": "Outra motivação"
+    },
+    {
+        "motivation_id": "11",
+        "motivation_dsc": "Passional"
+    },
+    {
+        "motivation_id": "12",
+        "motivation_dsc": "Racismo"
+    },
+    {
+        "motivation_id": "13",
+        "motivation_dsc": "Tráfico de drogas"
+    },
+    {
+        "motivation_id": "41",
+        "motivation_dsc": "Conflito entre familiares"
+    },
+    {
+        "motivation_id": "42",
+        "motivation_dsc": "Orcrim/Mesma Orcrim"
+    },
+    {
+        "motivation_id": "43",
+        "motivation_dsc": "Orcrim/Orcrim diferentes"
+    },
+    {
+        "motivation_id": "44",
+        "motivation_dsc": "Conflito entre reeducandos"
+    },
+    {
+        "motivation_id": "32767",
+        "motivation_dsc": "Não informada"
+    }
+]

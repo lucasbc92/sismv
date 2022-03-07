@@ -1,0 +1,37 @@
+[
+    {
+        "orcrim_id": "1",
+        "orcrim_dsc": "PGC",
+        "orcrim_expl": ""
+    },
+    {
+        "orcrim_id": "2",
+        "orcrim_dsc": "PCC",
+        "orcrim_expl": ""
+    },
+    {
+        "orcrim_id": "3",
+        "orcrim_dsc": "CV",
+        "orcrim_expl": ""
+    },
+    {
+        "orcrim_id": "4",
+        "orcrim_dsc": "Outra orcrim",
+        "orcrim_expl": ""
+    },
+    {
+        "orcrim_id": "5",
+        "orcrim_dsc": "Não faccionado",
+        "orcrim_expl": "O usuário possui informações de que o envolvido não é faccionado"
+    },
+    {
+        "orcrim_id": "6",
+        "orcrim_dsc": "Não identificado",
+        "orcrim_expl": "O envolvido não foi identificado"
+    },
+    {
+        "orcrim_id": "7",
+        "orcrim_dsc": "Não informado",
+        "orcrim_expl": "O usuário não possui informações sobre a ligação do envolvido com facções"
+    }
+]

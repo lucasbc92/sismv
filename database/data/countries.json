@@ -1,0 +1,1106 @@
+[
+    {
+        "country_id": "1",
+        "country_dsc": "BRASIL"
+    },
+    {
+        "country_id": "2",
+        "country_dsc": "AFEGANISTAO"
+    },
+    {
+        "country_id": "3",
+        "country_dsc": "AFRICA DO SUL"
+    },
+    {
+        "country_id": "4",
+        "country_dsc": "ALBANIA"
+    },
+    {
+        "country_id": "5",
+        "country_dsc": "ALEMANHA"
+    },
+    {
+        "country_id": "6",
+        "country_dsc": "ALEMANHA DEMOCRATICA"
+    },
+    {
+        "country_id": "7",
+        "country_dsc": "ALEMANHA FEDERAL"
+    },
+    {
+        "country_id": "8",
+        "country_dsc": "ALTO VOLTA"
+    },
+    {
+        "country_id": "9",
+        "country_dsc": "ANDORRA"
+    },
+    {
+        "country_id": "10",
+        "country_dsc": "ANGUILLA"
+    },
+    {
+        "country_id": "11",
+        "country_dsc": "ANGOLA"
+    },
+    {
+        "country_id": "12",
+        "country_dsc": "ANTIGUA E BARBUDA"
+    },
+    {
+        "country_id": "13",
+        "country_dsc": "ANTILHAS HOLANDESAS"
+    },
+    {
+        "country_id": "14",
+        "country_dsc": "ARABIA SAUDITA"
+    },
+    {
+        "country_id": "15",
+        "country_dsc": "ARGÉLIA"
+    },
+    {
+        "country_id": "16",
+        "country_dsc": "ARGENTINA"
+    },
+    {
+        "country_id": "17",
+        "country_dsc": "ARQUIPELAGO DE SAN ANDRES, PROVIDENCIA, S.CATALINA"
+    },
+    {
+        "country_id": "18",
+        "country_dsc": "ARMENIA"
+    },
+    {
+        "country_id": "19",
+        "country_dsc": "ARUBA"
+    },
+    {
+        "country_id": "20",
+        "country_dsc": "AUSTRALIA"
+    },
+    {
+        "country_id": "21",
+        "country_dsc": "AUSTRIA"
+    },
+    {
+        "country_id": "22",
+        "country_dsc": "AZERBAIDJAO"
+    },
+    {
+        "country_id": "23",
+        "country_dsc": "BAHAMAS"
+    },
+    {
+        "country_id": "24",
+        "country_dsc": "BANGLADESH"
+    },
+    {
+        "country_id": "25",
+        "country_dsc": "BARBADOS"
+    },
+    {
+        "country_id": "26",
+        "country_dsc": "BAREIN"
+    },
+    {
+        "country_id": "27",
+        "country_dsc": "BÉLGICA"
+    },
+    {
+        "country_id": "28",
+        "country_dsc": "BELIZE"
+    },
+    {
+        "country_id": "29",
+        "country_dsc": "BERMUDAS"
+    },
+    {
+        "country_id": "30",
+        "country_dsc": "BENIN"
+    },
+    {
+        "country_id": "31",
+        "country_dsc": "BIELO-RUSSIA(BELARUS)"
+    },
+    {
+        "country_id": "32",
+        "country_dsc": "BIRMANIA"
+    },
+    {
+        "country_id": "33",
+        "country_dsc": "BOLÍVIA"
+    },
+    {
+        "country_id": "34",
+        "country_dsc": "BOSNIA-HERZEGOVINA"
+    },
+    {
+        "country_id": "35",
+        "country_dsc": "BOTSUANA (BOTSWANA)"
+    },
+    {
+        "country_id": "36",
+        "country_dsc": "BRUNEI"
+    },
+    {
+        "country_id": "37",
+        "country_dsc": "BULGARIA"
+    },
+    {
+        "country_id": "38",
+        "country_dsc": "BURMA"
+    },
+    {
+        "country_id": "39",
+        "country_dsc": "BURKINA FASO"
+    },
+    {
+        "country_id": "40",
+        "country_dsc": "BURUNDI"
+    },
+    {
+        "country_id": "41",
+        "country_dsc": "BUTAO"
+    },
+    {
+        "country_id": "42",
+        "country_dsc": "CABO VERDE"
+    },
+    {
+        "country_id": "43",
+        "country_dsc": "CAMAROES (CAMAREUN)"
+    },
+    {
+        "country_id": "44",
+        "country_dsc": "CAMBOJA"
+    },
+    {
+        "country_id": "45",
+        "country_dsc": "CANADÁ"
+    },
+    {
+        "country_id": "46",
+        "country_dsc": "CATAR"
+    },
+    {
+        "country_id": "47",
+        "country_dsc": "CASAQUISTAO"
+    },
+    {
+        "country_id": "48",
+        "country_dsc": "CAYMAN"
+    },
+    {
+        "country_id": "49",
+        "country_dsc": "CEILAO"
+    },
+    {
+        "country_id": "50",
+        "country_dsc": "CEUTA E MELILLA"
+    },
+    {
+        "country_id": "51",
+        "country_dsc": "CHADE"
+    },
+    {
+        "country_id": "52",
+        "country_dsc": "CHILE"
+    },
+    {
+        "country_id": "53",
+        "country_dsc": "CHINA"
+    },
+    {
+        "country_id": "54",
+        "country_dsc": "CHINA NACIONALISTA"
+    },
+    {
+        "country_id": "55",
+        "country_dsc": "CHIPRE"
+    },
+    {
+        "country_id": "56",
+        "country_dsc": "CINGAPURA"
+    },
+    {
+        "country_id": "57",
+        "country_dsc": "COLOMBIA"
+    },
+    {
+        "country_id": "58",
+        "country_dsc": "CONGO"
+    },
+    {
+        "country_id": "59",
+        "country_dsc": "COREIA DO NORTE"
+    },
+    {
+        "country_id": "60",
+        "country_dsc": "COREIA DO SUL"
+    },
+    {
+        "country_id": "61",
+        "country_dsc": "COSTA DO MARFIM"
+    },
+    {
+        "country_id": "62",
+        "country_dsc": "COSTA RICA"
+    },
+    {
+        "country_id": "63",
+        "country_dsc": "COTE D'IVOIRE"
+    },
+    {
+        "country_id": "64",
+        "country_dsc": "COVEITE"
+    },
+    {
+        "country_id": "65",
+        "country_dsc": "CROACIA"
+    },
+    {
+        "country_id": "66",
+        "country_dsc": "CUBA"
+    },
+    {
+        "country_id": "67",
+        "country_dsc": "DINAMARCA"
+    },
+    {
+        "country_id": "68",
+        "country_dsc": "DJIBUTI"
+    },
+    {
+        "country_id": "69",
+        "country_dsc": "DOMINICA"
+    },
+    {
+        "country_id": "70",
+        "country_dsc": "EGITO"
+    },
+    {
+        "country_id": "71",
+        "country_dsc": "EL SALVADOR"
+    },
+    {
+        "country_id": "72",
+        "country_dsc": "EMIRADOS ARABES UNIDOS"
+    },
+    {
+        "country_id": "73",
+        "country_dsc": "EQUADOR"
+    },
+    {
+        "country_id": "74",
+        "country_dsc": "ERITREIA"
+    },
+    {
+        "country_id": "75",
+        "country_dsc": "ESCÓCIA"
+    },
+    {
+        "country_id": "76",
+        "country_dsc": "ESLOVENIA"
+    },
+    {
+        "country_id": "77",
+        "country_dsc": "ESPANHA"
+    },
+    {
+        "country_id": "78",
+        "country_dsc": "ESTADOS UNIDOS"
+    },
+    {
+        "country_id": "79",
+        "country_dsc": "ESTONIA"
+    },
+    {
+        "country_id": "80",
+        "country_dsc": "ETIOPIA"
+    },
+    {
+        "country_id": "81",
+        "country_dsc": "FIJI OU FIDJI"
+    },
+    {
+        "country_id": "82",
+        "country_dsc": "FILIPINAS"
+    },
+    {
+        "country_id": "83",
+        "country_dsc": "FINLANDIA"
+    },
+    {
+        "country_id": "84",
+        "country_dsc": "FORMOSA"
+    },
+    {
+        "country_id": "85",
+        "country_dsc": "FRANÇA"
+    },
+    {
+        "country_id": "86",
+        "country_dsc": "GABAO"
+    },
+    {
+        "country_id": "87",
+        "country_dsc": "GAMBIA"
+    },
+    {
+        "country_id": "88",
+        "country_dsc": "GANA"
+    },
+    {
+        "country_id": "89",
+        "country_dsc": "GEORGIA"
+    },
+    {
+        "country_id": "90",
+        "country_dsc": "GIBRALTAR"
+    },
+    {
+        "country_id": "91",
+        "country_dsc": "GRANADA"
+    },
+    {
+        "country_id": "92",
+        "country_dsc": "GRÃ-BRETANHA"
+    },
+    {
+        "country_id": "93",
+        "country_dsc": "GRÉCIA"
+    },
+    {
+        "country_id": "94",
+        "country_dsc": "GROENLANDIA"
+    },
+    {
+        "country_id": "95",
+        "country_dsc": "GUADALUPE"
+    },
+    {
+        "country_id": "96",
+        "country_dsc": "GUAM"
+    },
+    {
+        "country_id": "97",
+        "country_dsc": "GUATEMALA"
+    },
+    {
+        "country_id": "98",
+        "country_dsc": "GUIANA"
+    },
+    {
+        "country_id": "99",
+        "country_dsc": "GUIANA FRANCESA"
+    },
+    {
+        "country_id": "100",
+        "country_dsc": "GUINE"
+    },
+    {
+        "country_id": "101",
+        "country_dsc": "GUINE-BISSAU"
+    },
+    {
+        "country_id": "102",
+        "country_dsc": "GUINE-EQUATORIAL"
+    },
+    {
+        "country_id": "103",
+        "country_dsc": "HAITI"
+    },
+    {
+        "country_id": "104",
+        "country_dsc": "HOLANDA"
+    },
+    {
+        "country_id": "105",
+        "country_dsc": "HONDURAS"
+    },
+    {
+        "country_id": "106",
+        "country_dsc": "HONG KONG"
+    },
+    {
+        "country_id": "107",
+        "country_dsc": "HUNGRIA"
+    },
+    {
+        "country_id": "108",
+        "country_dsc": "IEMEM DO NORTE"
+    },
+    {
+        "country_id": "109",
+        "country_dsc": "IEMEM DO SUL"
+    },
+    {
+        "country_id": "110",
+        "country_dsc": "ILHA DE MAN"
+    },
+    {
+        "country_id": "111",
+        "country_dsc": "ILHA DE PITCAIRN"
+    },
+    {
+        "country_id": "112",
+        "country_dsc": "ILHA JOHNSTON"
+    },
+    {
+        "country_id": "113",
+        "country_dsc": "ILHA NORFOLK"
+    },
+    {
+        "country_id": "114",
+        "country_dsc": "ILHA WAKE"
+    },
+    {
+        "country_id": "115",
+        "country_dsc": "ILHAS ALAND"
+    },
+    {
+        "country_id": "116",
+        "country_dsc": "ILHAS CAYMAN"
+    },
+    {
+        "country_id": "117",
+        "country_dsc": "ILHAS COCOS (KEELING)"
+    },
+    {
+        "country_id": "118",
+        "country_dsc": "ILHAS COMORES"
+    },
+    {
+        "country_id": "119",
+        "country_dsc": "ILHAS COOK"
+    },
+    {
+        "country_id": "120",
+        "country_dsc": "ILHAS DO CANAL"
+    },
+    {
+        "country_id": "121",
+        "country_dsc": "ILHAS FAROE"
+    },
+    {
+        "country_id": "122",
+        "country_dsc": "ILHAS GEORGIA E SANDWICH DO SUL"
+    },
+    {
+        "country_id": "123",
+        "country_dsc": "ILHAS MARIANAS DO NORTE"
+    },
+    {
+        "country_id": "124",
+        "country_dsc": "ILHAS MARSHALL"
+    },
+    {
+        "country_id": "125",
+        "country_dsc": "ILHAS MIDWAY"
+    },
+    {
+        "country_id": "126",
+        "country_dsc": "ILHAS VIRGENS (EUA)"
+    },
+    {
+        "country_id": "127",
+        "country_dsc": "ILHAS VIRGENS (GB)"
+    },
+    {
+        "country_id": "128",
+        "country_dsc": "ILHAS WALLIS E FUTUNA"
+    },
+    {
+        "country_id": "129",
+        "country_dsc": "ÍNDIA"
+    },
+    {
+        "country_id": "130",
+        "country_dsc": "INDONESIA"
+    },
+    {
+        "country_id": "131",
+        "country_dsc": "INGLATERRA"
+    },
+    {
+        "country_id": "132",
+        "country_dsc": "IRÃ"
+    },
+    {
+        "country_id": "133",
+        "country_dsc": "IRAQUE"
+    },
+    {
+        "country_id": "134",
+        "country_dsc": "IRIA OCIDENTAL"
+    },
+    {
+        "country_id": "135",
+        "country_dsc": "IRLANDA DO NORTE"
+    },
+    {
+        "country_id": "136",
+        "country_dsc": "IRLANDA"
+    },
+    {
+        "country_id": "137",
+        "country_dsc": "ISLANDIA"
+    },
+    {
+        "country_id": "138",
+        "country_dsc": "ISRAEL"
+    },
+    {
+        "country_id": "139",
+        "country_dsc": "ITÁLIA"
+    },
+    {
+        "country_id": "140",
+        "country_dsc": "IUGOSLAVIA"
+    },
+    {
+        "country_id": "141",
+        "country_dsc": "JAMAICA"
+    },
+    {
+        "country_id": "142",
+        "country_dsc": "JAPÃO"
+    },
+    {
+        "country_id": "143",
+        "country_dsc": "JORDÂNIA"
+    },
+    {
+        "country_id": "144",
+        "country_dsc": "KUWAIT"
+    },
+    {
+        "country_id": "145",
+        "country_dsc": "LAOS"
+    },
+    {
+        "country_id": "146",
+        "country_dsc": "LESOTO"
+    },
+    {
+        "country_id": "147",
+        "country_dsc": "LETONIA"
+    },
+    {
+        "country_id": "148",
+        "country_dsc": "LIBANO"
+    },
+    {
+        "country_id": "149",
+        "country_dsc": "LIBERIA"
+    },
+    {
+        "country_id": "150",
+        "country_dsc": "LIBIA"
+    },
+    {
+        "country_id": "151",
+        "country_dsc": "LIECHTENSTEIN"
+    },
+    {
+        "country_id": "152",
+        "country_dsc": "LITUANIA"
+    },
+    {
+        "country_id": "153",
+        "country_dsc": "LUXEMBURGO"
+    },
+    {
+        "country_id": "154",
+        "country_dsc": "MACAU"
+    },
+    {
+        "country_id": "155",
+        "country_dsc": "MACEDONIA"
+    },
+    {
+        "country_id": "156",
+        "country_dsc": "MADAGASCAR"
+    },
+    {
+        "country_id": "157",
+        "country_dsc": "MALÁSIA"
+    },
+    {
+        "country_id": "158",
+        "country_dsc": "MALAUÍ"
+    },
+    {
+        "country_id": "159",
+        "country_dsc": "MALDIVAS"
+    },
+    {
+        "country_id": "160",
+        "country_dsc": "MALI"
+    },
+    {
+        "country_id": "161",
+        "country_dsc": "MALTA"
+    },
+    {
+        "country_id": "162",
+        "country_dsc": "ILHAS FALKLAND"
+    },
+    {
+        "country_id": "163",
+        "country_dsc": "MARROCOS"
+    },
+    {
+        "country_id": "164",
+        "country_dsc": "MARTINICA"
+    },
+    {
+        "country_id": "165",
+        "country_dsc": "MAURICIO"
+    },
+    {
+        "country_id": "166",
+        "country_dsc": "MAURITANIA"
+    },
+    {
+        "country_id": "167",
+        "country_dsc": "MAYOTTE"
+    },
+    {
+        "country_id": "168",
+        "country_dsc": "MÉXICO"
+    },
+    {
+        "country_id": "169",
+        "country_dsc": "MIANMA"
+    },
+    {
+        "country_id": "170",
+        "country_dsc": "MICRONESIA"
+    },
+    {
+        "country_id": "171",
+        "country_dsc": "MOÇAMBIQUE"
+    },
+    {
+        "country_id": "172",
+        "country_dsc": "MOLDÁVIA"
+    },
+    {
+        "country_id": "173",
+        "country_dsc": "MONACO"
+    },
+    {
+        "country_id": "174",
+        "country_dsc": "MONGOLIA"
+    },
+    {
+        "country_id": "175",
+        "country_dsc": "MONTENEGRO"
+    },
+    {
+        "country_id": "176",
+        "country_dsc": "MONTSERRAT"
+    },
+    {
+        "country_id": "177",
+        "country_dsc": "MYANMAR"
+    },
+    {
+        "country_id": "178",
+        "country_dsc": "NAMIBIA"
+    },
+    {
+        "country_id": "179",
+        "country_dsc": "NAURU"
+    },
+    {
+        "country_id": "180",
+        "country_dsc": "NEPAL"
+    },
+    {
+        "country_id": "181",
+        "country_dsc": "NICARÁGUA"
+    },
+    {
+        "country_id": "182",
+        "country_dsc": "NIGER"
+    },
+    {
+        "country_id": "183",
+        "country_dsc": "NIGERIA"
+    },
+    {
+        "country_id": "184",
+        "country_dsc": "NIUE"
+    },
+    {
+        "country_id": "185",
+        "country_dsc": "NORUEGA"
+    },
+    {
+        "country_id": "186",
+        "country_dsc": "NOVA CALEDONIA"
+    },
+    {
+        "country_id": "187",
+        "country_dsc": "NOVA ZELANDIA"
+    },
+    {
+        "country_id": "188",
+        "country_dsc": "NUEVA ESPARTA"
+    },
+    {
+        "country_id": "189",
+        "country_dsc": "OMA"
+    },
+    {
+        "country_id": "190",
+        "country_dsc": "PAIS DE GALES"
+    },
+    {
+        "country_id": "191",
+        "country_dsc": "PAÍSES BAIXOS"
+    },
+    {
+        "country_id": "192",
+        "country_dsc": "PALAU"
+    },
+    {
+        "country_id": "193",
+        "country_dsc": "PALESTINA"
+    },
+    {
+        "country_id": "194",
+        "country_dsc": "PANAMÁ"
+    },
+    {
+        "country_id": "195",
+        "country_dsc": "PAPUA NOVA-GUINE"
+    },
+    {
+        "country_id": "196",
+        "country_dsc": "PAQUISTAO"
+    },
+    {
+        "country_id": "197",
+        "country_dsc": "PARAGUAI"
+    },
+    {
+        "country_id": "198",
+        "country_dsc": "PERSIA"
+    },
+    {
+        "country_id": "199",
+        "country_dsc": "PERU"
+    },
+    {
+        "country_id": "200",
+        "country_dsc": "POLINESIA FRANCESA"
+    },
+    {
+        "country_id": "201",
+        "country_dsc": "POLÔNIA"
+    },
+    {
+        "country_id": "202",
+        "country_dsc": "PORTO RICO"
+    },
+    {
+        "country_id": "203",
+        "country_dsc": "PORTUGAL"
+    },
+    {
+        "country_id": "204",
+        "country_dsc": "QUENIA"
+    },
+    {
+        "country_id": "205",
+        "country_dsc": "QUIRIBATI"
+    },
+    {
+        "country_id": "206",
+        "country_dsc": "QUIRGUISTÃO"
+    },
+    {
+        "country_id": "207",
+        "country_dsc": "RASD"
+    },
+    {
+        "country_id": "208",
+        "country_dsc": "REINO UNIDO"
+    },
+    {
+        "country_id": "209",
+        "country_dsc": "REPUBLICA CENTROAFRICANA"
+    },
+    {
+        "country_id": "210",
+        "country_dsc": "REPUBLICA DO IEMEN"
+    },
+    {
+        "country_id": "211",
+        "country_dsc": "REPUBLICA DOMINICANA"
+    },
+    {
+        "country_id": "212",
+        "country_dsc": "REPUBLICA ESLOVACA"
+    },
+    {
+        "country_id": "213",
+        "country_dsc": "REPUBLICA TCHECA"
+    },
+    {
+        "country_id": "214",
+        "country_dsc": "REUNIAO"
+    },
+    {
+        "country_id": "215",
+        "country_dsc": "RODESIA"
+    },
+    {
+        "country_id": "216",
+        "country_dsc": "ROMENIA"
+    },
+    {
+        "country_id": "217",
+        "country_dsc": "RUANDA"
+    },
+    {
+        "country_id": "218",
+        "country_dsc": "RÚSSIA"
+    },
+    {
+        "country_id": "219",
+        "country_dsc": "SAARA OCIDENTAL"
+    },
+    {
+        "country_id": "220",
+        "country_dsc": "SAINT-PIERRE E MIQUELON"
+    },
+    {
+        "country_id": "221",
+        "country_dsc": "SALOMAO"
+    },
+    {
+        "country_id": "222",
+        "country_dsc": "SAMOA OCIDENTAL"
+    },
+    {
+        "country_id": "223",
+        "country_dsc": "SAMOA AMERICANA"
+    },
+    {
+        "country_id": "224",
+        "country_dsc": "SAN MARINO"
+    },
+    {
+        "country_id": "225",
+        "country_dsc": "SANTA HELENA"
+    },
+    {
+        "country_id": "226",
+        "country_dsc": "SANTA LUCIA"
+    },
+    {
+        "country_id": "227",
+        "country_dsc": "SAO CRISTOVAO E NEVIS  (SAINT KITTS E NEVIS)"
+    },
+    {
+        "country_id": "228",
+        "country_dsc": "SAO TOME E PRINCIPE"
+    },
+    {
+        "country_id": "229",
+        "country_dsc": "SAO VICENTE E GRANADINAS"
+    },
+    {
+        "country_id": "230",
+        "country_dsc": "SEICHELLES (SEYCHELLES)"
+    },
+    {
+        "country_id": "231",
+        "country_dsc": "SENEGAL"
+    },
+    {
+        "country_id": "232",
+        "country_dsc": "SERRA LEOA"
+    },
+    {
+        "country_id": "233",
+        "country_dsc": "SERVIA"
+    },
+    {
+        "country_id": "234",
+        "country_dsc": "SIRIA"
+    },
+    {
+        "country_id": "235",
+        "country_dsc": "SOMALIA"
+    },
+    {
+        "country_id": "236",
+        "country_dsc": "SIRI LANKA"
+    },
+    {
+        "country_id": "237",
+        "country_dsc": "SUAZILANDIA"
+    },
+    {
+        "country_id": "238",
+        "country_dsc": "SUDAO"
+    },
+    {
+        "country_id": "239",
+        "country_dsc": "SUECIA"
+    },
+    {
+        "country_id": "240",
+        "country_dsc": "SUIÇA"
+    },
+    {
+        "country_id": "241",
+        "country_dsc": "SURINAME"
+    },
+    {
+        "country_id": "242",
+        "country_dsc": "SVALBARD"
+    },
+    {
+        "country_id": "243",
+        "country_dsc": "TADJIQUISTAO"
+    },
+    {
+        "country_id": "244",
+        "country_dsc": "TAILANDIA"
+    },
+    {
+        "country_id": "245",
+        "country_dsc": "TAIWAN"
+    },
+    {
+        "country_id": "246",
+        "country_dsc": "TANZANIA"
+    },
+    {
+        "country_id": "247",
+        "country_dsc": "TCHECO-ESLOVAQUIA"
+    },
+    {
+        "country_id": "248",
+        "country_dsc": "TERRAS AUSTRAIS E ANTARTICA"
+    },
+    {
+        "country_id": "249",
+        "country_dsc": "TERRITORIO BRITANICO NA ANTARTICA"
+    },
+    {
+        "country_id": "250",
+        "country_dsc": "TERRITORIO BRITANICO NO OCEANO INDICO"
+    },
+    {
+        "country_id": "251",
+        "country_dsc": "TIBETE"
+    },
+    {
+        "country_id": "252",
+        "country_dsc": "TIMOR"
+    },
+    {
+        "country_id": "253",
+        "country_dsc": "TOGO"
+    },
+    {
+        "country_id": "254",
+        "country_dsc": "TONGA"
+    },
+    {
+        "country_id": "255",
+        "country_dsc": "TOQUELAU"
+    },
+    {
+        "country_id": "256",
+        "country_dsc": "TRINIDAD E TOBAGO"
+    },
+    {
+        "country_id": "257",
+        "country_dsc": "TUNISIA"
+    },
+    {
+        "country_id": "258",
+        "country_dsc": "TURCAS E CAICOS"
+    },
+    {
+        "country_id": "259",
+        "country_dsc": "TURCOMENISTAO (TURCOMENIA)"
+    },
+    {
+        "country_id": "260",
+        "country_dsc": "TURQUIA"
+    },
+    {
+        "country_id": "261",
+        "country_dsc": "TUVALU"
+    },
+    {
+        "country_id": "262",
+        "country_dsc": "UCRANIA"
+    },
+    {
+        "country_id": "263",
+        "country_dsc": "UGANDA"
+    },
+    {
+        "country_id": "264",
+        "country_dsc": "UNIAO SOVIETICA"
+    },
+    {
+        "country_id": "265",
+        "country_dsc": "URUGUAI"
+    },
+    {
+        "country_id": "266",
+        "country_dsc": "UZBEQUISTÃO"
+    },
+    {
+        "country_id": "267",
+        "country_dsc": "VANATU"
+    },
+    {
+        "country_id": "268",
+        "country_dsc": "VATICANO"
+    },
+    {
+        "country_id": "269",
+        "country_dsc": "VENEZUELA"
+    },
+    {
+        "country_id": "270",
+        "country_dsc": "VIETNAM"
+    },
+    {
+        "country_id": "271",
+        "country_dsc": "ZAIRE"
+    },
+    {
+        "country_id": "272",
+        "country_dsc": "ZAMBIA"
+    },
+    {
+        "country_id": "273",
+        "country_dsc": "ZIMBABUE"
+    },
+    {
+        "country_id": "274",
+        "country_dsc": "IÊMEN"
+    },
+    {
+        "country_id": "275",
+        "country_dsc": "REPÚBLICA DEMOCRÁTICA DO CONGO"
+    },
+    {
+        "country_id": "32767",
+        "country_dsc": "NÃO INFORMADO"
+    }
+]

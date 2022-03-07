@@ -1,0 +1,14 @@
+[
+    {
+        "gender_id": "1",
+        "gender_dsc": "Cisgênero"
+    },
+    {
+        "gender_id": "2",
+        "gender_dsc": "Transgênero"
+    },
+    {
+        "gender_id": "3",
+        "gender_dsc": "Não-binário"
+    }
+]
